@@ -1,0 +1,1 @@
+<?php echoThis messag; ?>
